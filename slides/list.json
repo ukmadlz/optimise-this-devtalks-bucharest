@@ -85,5 +85,46 @@
     "date-warehouse-arcitecture-bad.html",
     "date-warehouse-arcitecture.html",
     "next.md",
-    "middle-tier.html"
+    "middle-tier.html",
+    "language-specific-stuff.html",
+    "too-many-http-requests.md",
+    "single-app-requests.html",
+    "stacked-requests.html",
+    "fire-and-forget.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/queues.gif"
+        }
+    },
+    "fire-and-forget-tech.md",
+    "keep-it-close-together.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/penguins.gif"
+        }
+    },
+    "don-t-forget-to-optimise-the-enviroment.html",
+    "next.md",
+    "top-tier.html",
+    "take-everything-closer-to-the-user.md",
+    "use-cdns.md",
+    "cloudinary.md",
+    "progressive-web-apps.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/hype.gif"
+        }
+    },
+    "i-heart-pwa.html",
+    "collection-of-tools.md",
+    "service-workers.md",
+    "indexeddb.md",
+    "appcache.md",
+    "the-usual-js-css-nonsense.md",
+    "and-don-t-forget-about-caching.md",
+    "take-aways.md",
+    "author.md"
 ]
